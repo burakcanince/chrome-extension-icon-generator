@@ -1,3 +1,5 @@
+<img src="preview.png"></a>
+
 # Chrome Extension Icon Generator
 
 Generate icons for your Chrome extensions in various required sizes
@@ -12,9 +14,10 @@ Generate icons for your Chrome extensions in various required sizes
 
 ## Tech Stack
 
-- [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
+- [React 18](https://react.dev/)
+- [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [lucide-react](https://lucide.dev/)
+- [Lucide React](https://lucide.dev/)
 
 ## Getting Started
 
